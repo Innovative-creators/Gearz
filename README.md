@@ -51,6 +51,7 @@ For detailed informatin about the bot, you can join this server. <https://discor
 | commands | list all of the bot commands by categories. |
 | emote | list all of the emote of the server. |
 | help | list all of the commands or information about a single command. |
+| horoscope | View your today's horoscope. |
 | info | display information about the bot. |
 | inspire | display inspirational image. |
 | ping | ping- and then pong- :P |
@@ -64,8 +65,12 @@ For detailed informatin about the bot, you can join this server. <https://discor
 | Command name | Description |
 | ------------ | ----------- |
 | beautiful | this... this is beautiful. |
+| disabled | Not all disabilities are visible! |
+| hitler | worse than hitler. |
 | illegal | US President Trump makes something illegal. |
+| mylove | Ready to get hung for my love. |
 | robot | Generates some unique robot image. |
+| shit | eww... stepped on a shit. |
 | wanted | wanted, dead or alive. |
 
 **Moderation**
@@ -104,6 +109,7 @@ These commands work only when you use them in a `NSFW` channel
 | ass | display some ass image. |
 | boobs | display some boobs image. |
 | gtn | display a GreenTeaNeko comic. |
+| nsfwr | displays a random subreddit nsfw image. |
 
 **Support**
 
