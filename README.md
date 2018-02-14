@@ -1,6 +1,9 @@
 # Gearz
 [![Discord Bots](https://discordbots.org/api/widget/367202192609902593.svg)](https://discordbots.org/bot/367202192609902593)
 
+
+**Keep in mind that the bot is having a rewrite with nice commands!**
+
 A multipurpose bot Which can make your server preetier than ever and help you manage it at extreme. The bot is built using discord.js library.
 For detailed informatin about the bot, you can join this server. <https://discord.gg/DsPG6Af>
 
