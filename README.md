@@ -1,6 +1,5 @@
 # Gearz
-[![Discord Bots](https://discordbots.org/api/widget/367202192609902593.svg)](https://discordbots.org/bot/367202192609902593)
-
+[![Discord Bots](https://discordbots.org/api/widget/367202192609902593.svg)](https://discordbots.org/bot/367202192609902593) [![Bots for discord](https://botsfordiscord.com/api/v1/bots/367202192609902593/embed)](https://botsfordiscord.com/bot/367202192609902593)
 
 **Keep in mind that the bot is having a rewrite with nice commands!**
 
@@ -45,7 +44,7 @@ For detailed informatin about the bot, you can join this server. <https://discor
 | ------------ | ----------- |
 | connect4 | play the game of conenct4 with your friend. |
 | pkmn | guess the name of the pokemon for image shown. |
-| tictactoe | play the game of tic-tac-toe with your friend. |
+| tictactoe | play the game of tic-tac-toe with your friend. | 
 | trivia | play the simple trivia game. |
 
 **General**
@@ -140,5 +139,3 @@ If you happen to have any issues regardint the bot then you can repot an issue h
 
 To add this bot to your server use this link
 [click here](https://discordapp.com/oauth2/authorize?client_id=367202192609902593&scope=bot&permissions=8)
-
-[![Discord Bots](https://discordbots.org/api/widget/367202192609902593.png)](https://discordbots.org/bot/367202192609902593)
