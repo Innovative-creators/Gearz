@@ -135,7 +135,7 @@ These commands work only when you use them in a `NSFW` channel
   
 # Extra Information
 This repository is just a placeholder repository about the bot. 
-If you happen to have any issues regardint the bot then you can repot an issue here or in the official discord server of the bot.
+If you happen to have any issues regarding the bot then you can repot an issue here or in the official discord server of the bot.
 
 To add this bot to your server use this link
 [click here](https://discordapp.com/oauth2/authorize?client_id=367202192609902593&scope=bot&permissions=8)
