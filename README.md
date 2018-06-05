@@ -1,5 +1,5 @@
 # Gearz
-[![Discord Bots](https://discordbots.org/api/widget/367202192609902593.svg)](https://discordbots.org/bot/367202192609902593) [![Bots for discord](https://botsfordiscord.com/api/v1/bots/367202192609902593/embed)](https://botsfordiscord.com/bot/367202192609902593)
+[![Discord Bots](https://discordbots.org/api/widget/367202192609902593.svg)](https://discordbots.org/bot/367202192609902593) [![Bots for discord](https://botsfordiscord.com/api/v1/bots/367202192609902593/embed?theme=dark)](https://botsfordiscord.com/bot/367202192609902593)
 
 **Keep in mind that the bot is having a rewrite with nice commands!**
 
